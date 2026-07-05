@@ -41,8 +41,8 @@
    "confirmed_rate": 0.867
   }
  ],
- "labels_last_28d": 141,
- "labels_per_week_recent": 35.2,
+ "labels_last_28d": 28,
+ "labels_per_week_recent": 7.0,
  "coverage_by_zone": {
   "NC": {
    "events": 38,

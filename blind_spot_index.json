@@ -29,7 +29,7 @@
    "risk_score": 60,
    "observation_deficit": 0.51,
    "blind_spot_score": 31,
-   "day0_publishers_90d": 8,
+   "day0_publishers_90d": 9,
    "zone_unresolved_share": 0.838,
    "geo_unresolved_share": 0.667,
    "reasons": [
