@@ -1,0 +1,78 @@
+{
+ "kind": "self_reported_measured_reliability",
+ "labels_total": 141,
+ "training_eligible": 23,
+ "by_outcome": {
+  "matured_confirmed": 18,
+  "unresolved": 118,
+  "matured_disputed": 5
+ },
+ "day0_auc_vs_matured_confirmed": 0.533,
+ "day0_ece_vs_maturation": 0.0997,
+ "calibration_bins": [
+  {
+   "bin": "0.0-0.2",
+   "n": 0,
+   "mean_confidence": null,
+   "confirmed_rate": null
+  },
+  {
+   "bin": "0.2-0.4",
+   "n": 1,
+   "mean_confidence": 0.37,
+   "confirmed_rate": 1.0
+  },
+  {
+   "bin": "0.4-0.6",
+   "n": 3,
+   "mean_confidence": 0.513,
+   "confirmed_rate": 0.667
+  },
+  {
+   "bin": "0.6-0.8",
+   "n": 4,
+   "mean_confidence": 0.755,
+   "confirmed_rate": 0.5
+  },
+  {
+   "bin": "0.8-1.0",
+   "n": 15,
+   "mean_confidence": 0.879,
+   "confirmed_rate": 0.867
+  }
+ ],
+ "labels_last_28d": 141,
+ "labels_per_week_recent": 35.2,
+ "coverage_by_zone": {
+  "NC": {
+   "events": 38,
+   "unresolved_share": 0.763
+  },
+  "NE": {
+   "events": 17,
+   "unresolved_share": 0.765
+  },
+  "NW": {
+   "events": 37,
+   "unresolved_share": 0.838
+  },
+  "SE": {
+   "events": 14,
+   "unresolved_share": 1.0
+  },
+  "SS": {
+   "events": 12,
+   "unresolved_share": 0.917
+  },
+  "SW": {
+   "events": 23,
+   "unresolved_share": 0.87
+  }
+ },
+ "label_source": "delayed_press_cascade_time_as_annotator",
+ "caveats": [
+  "Labels measure whether events held up in the evidence stream, not ground truth; correlated media errors are invisible.",
+  "unresolved is a coverage gap, never a negative label.",
+  "Human audits of the labeler are the final quality control."
+ ]
+}
