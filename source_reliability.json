@@ -7,23 +7,23 @@
    "source_id": "nigerianeye.com",
    "source_name": "nigerianeye.com",
    "tier_prior": 3,
-   "events_reported_day0": 6,
+   "events_reported_day0": 8,
    "resolved_events": 3,
    "confirmed": 3,
    "disputed": 0,
    "learned_reliability": 0.8,
-   "states_covered": 6
+   "states_covered": 7
   },
   {
    "source_id": "daily-trust",
    "source_name": "Daily Trust",
    "tier_prior": 1,
-   "events_reported_day0": 48,
+   "events_reported_day0": 50,
    "resolved_events": 7,
    "confirmed": 5,
    "disputed": 2,
    "learned_reliability": 0.667,
-   "states_covered": 18
+   "states_covered": 19
   },
   {
    "source_id": "punch",
@@ -40,18 +40,18 @@
    "source_id": "daily-post",
    "source_name": "Daily Post",
    "tier_prior": 2,
-   "events_reported_day0": 64,
+   "events_reported_day0": 68,
    "resolved_events": 6,
    "confirmed": 4,
    "disputed": 2,
    "learned_reliability": 0.625,
-   "states_covered": 25
+   "states_covered": 27
   },
   {
    "source_id": "vanguard",
    "source_name": "Vanguard",
    "tier_prior": 1,
-   "events_reported_day0": 32,
+   "events_reported_day0": 33,
    "resolved_events": 2,
    "confirmed": 1,
    "disputed": 1,
