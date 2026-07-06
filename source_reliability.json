@@ -18,45 +18,45 @@
    "source_id": "daily-trust",
    "source_name": "Daily Trust",
    "tier_prior": 1,
-   "events_reported_day0": 50,
+   "events_reported_day0": 52,
    "resolved_events": 7,
    "confirmed": 5,
    "disputed": 2,
    "learned_reliability": 0.667,
-   "states_covered": 19
+   "states_covered": 21
+  },
+  {
+   "source_id": "vanguard",
+   "source_name": "Vanguard",
+   "tier_prior": 1,
+   "events_reported_day0": 34,
+   "resolved_events": 4,
+   "confirmed": 3,
+   "disputed": 1,
+   "learned_reliability": 0.667,
+   "states_covered": 18
   },
   {
    "source_id": "punch",
    "source_name": "Punch",
    "tier_prior": 1,
    "events_reported_day0": 48,
-   "resolved_events": 4,
-   "confirmed": 3,
-   "disputed": 1,
-   "learned_reliability": 0.667,
+   "resolved_events": 8,
+   "confirmed": 5,
+   "disputed": 3,
+   "learned_reliability": 0.6,
    "states_covered": 24
   },
   {
    "source_id": "daily-post",
    "source_name": "Daily Post",
    "tier_prior": 2,
-   "events_reported_day0": 68,
-   "resolved_events": 6,
-   "confirmed": 4,
-   "disputed": 2,
-   "learned_reliability": 0.625,
+   "events_reported_day0": 69,
+   "resolved_events": 10,
+   "confirmed": 5,
+   "disputed": 5,
+   "learned_reliability": 0.5,
    "states_covered": 27
-  },
-  {
-   "source_id": "vanguard",
-   "source_name": "Vanguard",
-   "tier_prior": 1,
-   "events_reported_day0": 33,
-   "resolved_events": 2,
-   "confirmed": 1,
-   "disputed": 1,
-   "learned_reliability": null,
-   "states_covered": 18
   },
   {
    "source_id": "sahara-reporters",
@@ -95,12 +95,12 @@
    "source_id": "premium-times",
    "source_name": "Premium Times",
    "tier_prior": 1,
-   "events_reported_day0": 13,
+   "events_reported_day0": 14,
    "resolved_events": 1,
    "confirmed": 1,
    "disputed": 0,
    "learned_reliability": null,
-   "states_covered": 11
+   "states_covered": 12
   },
   {
    "source_id": "the-cable",
@@ -114,10 +114,10 @@
    "states_covered": 6
   },
   {
-   "source_id": "leadership",
-   "source_name": "Leadership",
-   "tier_prior": 2,
-   "events_reported_day0": 4,
+   "source_id": "channels-tv",
+   "source_name": "Channels TV",
+   "tier_prior": 1,
+   "events_reported_day0": 6,
    "resolved_events": 1,
    "confirmed": 1,
    "disputed": 0,
@@ -125,9 +125,9 @@
    "states_covered": 4
   },
   {
-   "source_id": "channels-tv",
-   "source_name": "Channels TV",
-   "tier_prior": 1,
+   "source_id": "leadership",
+   "source_name": "Leadership",
+   "tier_prior": 2,
    "events_reported_day0": 4,
    "resolved_events": 1,
    "confirmed": 1,
@@ -323,6 +323,17 @@
    "states_covered": 6
   },
   {
+   "source_id": "sun",
+   "source_name": "The Sun Nigeria",
+   "tier_prior": 2,
+   "events_reported_day0": 4,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 3
+  },
+  {
    "source_id": "blueprint",
    "source_name": "Blueprint",
    "tier_prior": 2,
@@ -332,17 +343,6 @@
    "disputed": 0,
    "learned_reliability": null,
    "states_covered": 4
-  },
-  {
-   "source_id": "sun",
-   "source_name": "The Sun Nigeria",
-   "tier_prior": 2,
-   "events_reported_day0": 3,
-   "resolved_events": 0,
-   "confirmed": 0,
-   "disputed": 0,
-   "learned_reliability": null,
-   "states_covered": 3
   },
   {
    "source_id": "naija247news.com",
@@ -369,6 +369,17 @@
   {
    "source_id": "the-nation",
    "source_name": "The Nation",
+   "tier_prior": 2,
+   "events_reported_day0": 2,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 2
+  },
+  {
+   "source_id": "tribune",
+   "source_name": "Nigerian Tribune",
    "tier_prior": 2,
    "events_reported_day0": 2,
    "resolved_events": 0,
@@ -436,17 +447,6 @@
    "source_id": "timesofindia.indiatimes.com",
    "source_name": "timesofindia.indiatimes.com",
    "tier_prior": 3,
-   "events_reported_day0": 1,
-   "resolved_events": 0,
-   "confirmed": 0,
-   "disputed": 0,
-   "learned_reliability": null,
-   "states_covered": 1
-  },
-  {
-   "source_id": "tribune",
-   "source_name": "Nigerian Tribune",
-   "tier_prior": 2,
    "events_reported_day0": 1,
    "resolved_events": 0,
    "confirmed": 0,
@@ -556,6 +556,17 @@
   {
    "source_id": "arise-news",
    "source_name": "Arise News",
+   "tier_prior": 2,
+   "events_reported_day0": 1,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 1
+  },
+  {
+   "source_id": "tvc-news",
+   "source_name": "TVC News",
    "tier_prior": 2,
    "events_reported_day0": 1,
    "resolved_events": 0,
