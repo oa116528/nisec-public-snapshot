@@ -118,8 +118,8 @@ inc_30e71e73bc46635a,2026-06-22,Kebbi,,,,farmer_herder_clash,0,0,0,0,unverified,
 inc_8786c878595b30d6,2026-06-22,Kwara,,,,kidnapping_abduction,0,0,0,0,unverified,0.86,2
 inc_5e79088b84120dd5,2026-06-22,Lagos,,,,other,0,0,0,0,unverified,1.0,9
 inc_2b897973fe20c0bd,2026-06-22,Lagos,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
-inc_a599a4d42f1b1cb7,2026-06-23,Osun,,,,other,0,0,0,0,unverified,0.86,2
-inc_f5824049e17d2971,2026-06-22,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
+inc_a599a4d42f1b1cb7,2026-06-23,Osun,,,,other,0,0,0,0,disputed,0.86,2
+inc_f5824049e17d2971,2026-06-22,Oyo,,,,kidnapping_abduction,0,0,0,0,disputed,0.78,1
 inc_d678fc02e13c7167,2026-06-22,Plateau,,,,banditry,25,25,0,0,unverified,0.78,1
 inc_3d45b91f24459025,2026-06-22,Plateau,,,,homicide_murder,18,18,0,0,unverified,0.78,1
 inc_36c948d2bd4e7b91,2026-06-22,Plateau,,,,other,18,18,0,0,unverified,0.78,1
@@ -243,7 +243,7 @@ inc_edd70ea5b0943788,2026-07-05,Niger,,,,farmer_herder_clash,0,0,0,0,unverified,
 inc_fb2f3b806cd43988,2026-07-05,Ondo,,,,armed_robbery,0,5,0,0,unverified,0.76,2
 inc_cc287dbb4a0cead0,2026-07-05,Ondo,,,,electoral_political_violence,0,0,0,0,unverified,0.78,1
 inc_8d048429ccf7e9dd,2026-07-05,Osun,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
-inc_cf9b24d714f253c5,2026-07-05,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,4
+inc_cf9b24d714f253c5,2026-07-05,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,5
 inc_179ebbc1a3b0000a,2026-07-05,Plateau,,,,homicide_murder,3,3,0,0,unverified,0.78,1
 inc_53a860269f1514fc,2026-07-05,Plateau,,,,homicide_murder,3,3,0,0,unverified,0.78,1
 inc_b892130238114741,2026-07-05,Sokoto,Wamako,13.075,5.1161,banditry,0,1,0,0,unverified,0.84,3
@@ -253,3 +253,5 @@ inc_5d83d7ab33d9824d,2026-07-05,Sokoto,,,,banditry,6,6,0,0,unverified,0.78,1
 inc_7c5c7db5b66560e0,2026-07-05,Sokoto,,,,banditry,1,1,0,0,unverified,0.78,1
 inc_597a5d7d2f203153,2026-07-06,Sokoto,,,,banditry,0,0,0,0,unverified,0.86,2
 inc_988b45a2963037cc,2026-07-05,Zamfara,,,,other,0,0,0,0,unverified,0.86,2
+inc_8d7c8ca5316b009d,2026-07-06,Kogi,,,,homicide_murder,7,7,0,0,unverified,0.86,2
+inc_8f6d6ec0463f7e76,2026-07-06,Kwara,,,,homicide_murder,15,15,0,0,unverified,0.78,1

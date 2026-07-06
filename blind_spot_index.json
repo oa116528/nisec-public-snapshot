@@ -41,9 +41,9 @@
    "state": "Benue",
    "state_code": "BE",
    "zone": "NC",
-   "risk_score": 53,
+   "risk_score": 54,
    "observation_deficit": 0.516,
-   "blind_spot_score": 27,
+   "blind_spot_score": 28,
    "day0_publishers_90d": 9,
    "zone_unresolved_share": 0.756,
    "geo_unresolved_share": 0.882,
@@ -176,7 +176,7 @@
    "state": "Oyo",
    "state_code": "OY",
    "zone": "SW",
-   "risk_score": 36,
+   "risk_score": 37,
    "observation_deficit": 0.523,
    "blind_spot_score": 19,
    "day0_publishers_90d": 15,
@@ -224,7 +224,7 @@
    "risk_score": 30,
    "observation_deficit": 0.563,
    "blind_spot_score": 17,
-   "day0_publishers_90d": 8,
+   "day0_publishers_90d": 9,
    "zone_unresolved_share": 0.808,
    "geo_unresolved_share": 1.0,
    "reasons": [
@@ -248,6 +248,21 @@
    ]
   },
   {
+   "state": "Kwara",
+   "state_code": "KW",
+   "zone": "NC",
+   "risk_score": 32,
+   "observation_deficit": 0.54,
+   "blind_spot_score": 17,
+   "day0_publishers_90d": 13,
+   "zone_unresolved_share": 0.756,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "75% of matured events in NC never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Cross River",
    "state_code": "CR",
    "zone": "SS",
@@ -266,9 +281,9 @@
    "state": "Edo",
    "state_code": "ED",
    "zone": "SS",
-   "risk_score": 21,
+   "risk_score": 22,
    "observation_deficit": 0.735,
-   "blind_spot_score": 15,
+   "blind_spot_score": 16,
    "day0_publishers_90d": 4,
    "zone_unresolved_share": 0.929,
    "geo_unresolved_share": 1.0,
@@ -278,13 +293,13 @@
    ]
   },
   {
-   "state": "Kwara",
-   "state_code": "KW",
+   "state": "Kogi",
+   "state_code": "KO",
    "zone": "NC",
    "risk_score": 27,
    "observation_deficit": 0.54,
    "blind_spot_score": 15,
-   "day0_publishers_90d": 13,
+   "day0_publishers_90d": 10,
    "zone_unresolved_share": 0.756,
    "geo_unresolved_share": 1.0,
    "reasons": [
@@ -296,9 +311,9 @@
    "state": "Niger",
    "state_code": "NI",
    "zone": "NC",
-   "risk_score": 26,
+   "risk_score": 27,
    "observation_deficit": 0.507,
-   "blind_spot_score": 13,
+   "blind_spot_score": 14,
    "day0_publishers_90d": 8,
    "zone_unresolved_share": 0.756,
    "geo_unresolved_share": 0.833,
@@ -308,18 +323,17 @@
    ]
   },
   {
-   "state": "Taraba",
-   "state_code": "TA",
-   "zone": "NE",
-   "risk_score": 16,
-   "observation_deficit": 0.783,
-   "blind_spot_score": 13,
-   "day0_publishers_90d": 2,
-   "zone_unresolved_share": 0.778,
+   "state": "Anambra",
+   "state_code": "AN",
+   "zone": "SE",
+   "risk_score": 17,
+   "observation_deficit": 0.708,
+   "blind_spot_score": 12,
+   "day0_publishers_90d": 5,
+   "zone_unresolved_share": 1.0,
    "geo_unresolved_share": 1.0,
    "reasons": [
-    "77% of matured events in NE never produced an evidence cascade",
-    "only 2 independent publisher(s) filed day-0 reports here in 90 days",
+    "100% of matured events in SE never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -370,17 +384,17 @@
    ]
   },
   {
-   "state": "Anambra",
-   "state_code": "AN",
-   "zone": "SE",
+   "state": "Taraba",
+   "state_code": "TA",
+   "zone": "NE",
    "risk_score": 16,
-   "observation_deficit": 0.708,
-   "blind_spot_score": 11,
-   "day0_publishers_90d": 5,
-   "zone_unresolved_share": 1.0,
+   "observation_deficit": 0.725,
+   "blind_spot_score": 12,
+   "day0_publishers_90d": 3,
+   "zone_unresolved_share": 0.778,
    "geo_unresolved_share": 1.0,
    "reasons": [
-    "100% of matured events in SE never produced an evidence cascade",
+    "77% of matured events in NE never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -397,21 +411,6 @@
    "reasons": [
     "81% of matured events in NW never produced an evidence cascade",
     "only 2 independent publisher(s) filed day-0 reports here in 90 days",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Kogi",
-   "state_code": "KO",
-   "zone": "NC",
-   "risk_score": 21,
-   "observation_deficit": 0.54,
-   "blind_spot_score": 11,
-   "day0_publishers_90d": 8,
-   "zone_unresolved_share": 0.756,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "75% of matured events in NC never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -507,6 +506,22 @@
    ]
   },
   {
+   "state": "FCT",
+   "state_code": "FC",
+   "zone": "NC",
+   "risk_score": 8,
+   "observation_deficit": 0.832,
+   "blind_spot_score": 7,
+   "day0_publishers_90d": 1,
+   "zone_unresolved_share": 0.756,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "75% of matured events in NC never produced an evidence cascade",
+    "only 1 independent publisher(s) filed day-0 reports here in 90 days",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Akwa Ibom",
    "state_code": "AK",
    "zone": "SS",
@@ -519,22 +534,6 @@
    "reasons": [
     "92% of matured events in SS never produced an evidence cascade",
     "only 1 independent publisher(s) filed day-0 reports here in 90 days"
-   ]
-  },
-  {
-   "state": "FCT",
-   "state_code": "FC",
-   "zone": "NC",
-   "risk_score": 7,
-   "observation_deficit": 0.832,
-   "blind_spot_score": 6,
-   "day0_publishers_90d": 1,
-   "zone_unresolved_share": 0.756,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "75% of matured events in NC never produced an evidence cascade",
-    "only 1 independent publisher(s) filed day-0 reports here in 90 days",
-    "most incidents here cannot be placed below state level"
    ]
   },
   {

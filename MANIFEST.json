@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-07-06T14:30:24Z",
- "incidents": 253,
+ "generated_at": "2026-07-06T15:47:51Z",
+ "incidents": 255,
  "chain_head": {
-  "seq": 21,
-  "at": "2026-07-06T00:53:00Z",
-  "record_sha256": "39feb6fbc8dbc7aef237bc831bb0f3955f7f7dcedca56302dfde19d8a23b9203"
+  "seq": 23,
+  "at": "2026-07-06T15:46:02Z",
+  "record_sha256": "d223e624f89f23a137c022ed67250afdcc06ded7d8fa138cb4e0091c2ba04783"
  },
  "files": {
-  "incidents_hxl.csv": "1a77266d548e5fd18746abf909aaf2f63dff65d8fe54d1464710ae69820b32d8",
+  "incidents_hxl.csv": "215bbc2d05cf666833b1cce2280aa6898355337a73f9954a8a407b6814e55f6d",
   "scorecard.json": "3341bd0e3d8c0fd22069c5a38bce1979c46b498424e845b436f616fde654adf8",
   "forecast_track_record.json": "b4154bf2a02eaacd931c9f83bac659fe0e9b75490bc693a7d01bd21ea5ca12f3",
-  "source_reliability.json": "a88fa84ac99e4fcffbb2b05e10ddac9ed4003aaadbb64b564a697b15e387baee",
-  "blind_spot_index.json": "a995245edc321d40bb52da5fc4428a22d00cb2ef8d65fa59fbfe9104dfba8811",
+  "source_reliability.json": "763f54147ef04f3ca5a05a0d0406e44331e49738b888f4df6238082a53963c73",
+  "blind_spot_index.json": "00e8714f2a0f6e483b9225eebc2f9f4d4d4f77da8a83da5819f082d4fa9af285",
   "VERIFY.md": "101c61752485766fe64eefefc0b988edbed6c8dd9f300441a416e38f93343f6b",
-  "integrity_chain.jsonl": "c087480a68abe1ce79fca69cdead2f9b507113baaaf39ff88c732db32aa5ad31"
+  "integrity_chain.jsonl": "978996cd1d108432ca7e31f76c08e4243a8edba0bac90f7b3c01fcd12706cea7"
  },
  "license": "CC-BY 4.0 (data); verify before operational use"
 }
