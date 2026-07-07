@@ -1,10 +1,10 @@
 {
  "kind": "self_reported_measured_reliability",
- "labels_total": 160,
+ "labels_total": 177,
  "training_eligible": 29,
  "by_outcome": {
   "matured_confirmed": 20,
-  "unresolved": 131,
+  "unresolved": 148,
   "matured_disputed": 9
  },
  "day0_auc_vs_matured_confirmed": 0.578,
@@ -41,32 +41,32 @@
    "confirmed_rate": 0.833
   }
  ],
- "labels_last_28d": 47,
- "labels_per_week_recent": 11.8,
+ "labels_last_28d": 64,
+ "labels_per_week_recent": 16.0,
  "coverage_by_zone": {
   "NC": {
-   "events": 45,
-   "unresolved_share": 0.756
+   "events": 51,
+   "unresolved_share": 0.784
   },
   "NE": {
-   "events": 18,
-   "unresolved_share": 0.778
+   "events": 19,
+   "unresolved_share": 0.789
   },
   "NW": {
-   "events": 43,
-   "unresolved_share": 0.814
+   "events": 48,
+   "unresolved_share": 0.833
   },
   "SE": {
    "events": 14,
    "unresolved_share": 1.0
   },
   "SS": {
-   "events": 14,
-   "unresolved_share": 0.929
+   "events": 15,
+   "unresolved_share": 0.933
   },
   "SW": {
-   "events": 26,
-   "unresolved_share": 0.808
+   "events": 30,
+   "unresolved_share": 0.833
   }
  },
  "label_source": "delayed_press_cascade_time_as_annotator",
