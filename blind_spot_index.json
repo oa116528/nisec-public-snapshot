@@ -11,7 +11,7 @@
    "state": "Plateau",
    "state_code": "PL",
    "zone": "NC",
-   "risk_score": 59,
+   "risk_score": 60,
    "observation_deficit": 0.536,
    "blind_spot_score": 32,
    "day0_publishers_90d": 12,
@@ -53,6 +53,36 @@
    ]
   },
   {
+   "state": "Borno",
+   "state_code": "BO",
+   "zone": "NE",
+   "risk_score": 48,
+   "observation_deficit": 0.546,
+   "blind_spot_score": 26,
+   "day0_publishers_90d": 23,
+   "zone_unresolved_share": 0.789,
+   "geo_unresolved_share": 0.955,
+   "reasons": [
+    "78% of matured events in NE never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
+   "state": "Kaduna",
+   "state_code": "KD",
+   "zone": "NW",
+   "risk_score": 46,
+   "observation_deficit": 0.564,
+   "blind_spot_score": 26,
+   "day0_publishers_90d": 11,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 0.947,
+   "reasons": [
+    "83% of matured events in NW never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Rivers",
    "state_code": "RI",
    "zone": "SS",
@@ -68,32 +98,32 @@
    ]
   },
   {
-   "state": "Borno",
-   "state_code": "BO",
-   "zone": "NE",
-   "risk_score": 45,
-   "observation_deficit": 0.546,
+   "state": "Ondo",
+   "state_code": "ON",
+   "zone": "SW",
+   "risk_score": 43,
+   "observation_deficit": 0.575,
    "blind_spot_score": 25,
-   "day0_publishers_90d": 23,
-   "zone_unresolved_share": 0.789,
-   "geo_unresolved_share": 0.952,
+   "day0_publishers_90d": 7,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 1.0,
    "reasons": [
-    "78% of matured events in NE never produced an evidence cascade",
+    "83% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
   {
-   "state": "Kaduna",
-   "state_code": "KD",
-   "zone": "NW",
-   "risk_score": 42,
-   "observation_deficit": 0.564,
-   "blind_spot_score": 24,
-   "day0_publishers_90d": 9,
+   "state": "Osun",
+   "state_code": "OS",
+   "zone": "SW",
+   "risk_score": 39,
+   "observation_deficit": 0.633,
+   "blind_spot_score": 25,
+   "day0_publishers_90d": 5,
    "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 0.944,
+   "geo_unresolved_share": 1.0,
    "reasons": [
-    "83% of matured events in NW never produced an evidence cascade",
+    "83% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -101,7 +131,7 @@
    "state": "Ogun",
    "state_code": "OG",
    "zone": "SW",
-   "risk_score": 36,
+   "risk_score": 37,
    "observation_deficit": 0.633,
    "blind_spot_score": 23,
    "day0_publishers_90d": 5,
@@ -113,30 +143,30 @@
    ]
   },
   {
-   "state": "Ondo",
-   "state_code": "ON",
+   "state": "Oyo",
+   "state_code": "OY",
    "zone": "SW",
-   "risk_score": 38,
-   "observation_deficit": 0.575,
+   "risk_score": 41,
+   "observation_deficit": 0.542,
    "blind_spot_score": 22,
-   "day0_publishers_90d": 6,
+   "day0_publishers_90d": 17,
    "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 1.0,
+   "geo_unresolved_share": 0.833,
    "reasons": [
     "83% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
   {
-   "state": "Oyo",
-   "state_code": "OY",
+   "state": "Ekiti",
+   "state_code": "EK",
    "zone": "SW",
-   "risk_score": 40,
-   "observation_deficit": 0.542,
-   "blind_spot_score": 22,
-   "day0_publishers_90d": 17,
+   "risk_score": 36,
+   "observation_deficit": 0.575,
+   "blind_spot_score": 21,
+   "day0_publishers_90d": 10,
    "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 0.833,
+   "geo_unresolved_share": 1.0,
    "reasons": [
     "83% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
@@ -154,21 +184,6 @@
    "geo_unresolved_share": 0.7,
    "reasons": [
     "83% of matured events in NW never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Ekiti",
-   "state_code": "EK",
-   "zone": "SW",
-   "risk_score": 35,
-   "observation_deficit": 0.575,
-   "blind_spot_score": 20,
-   "day0_publishers_90d": 10,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "83% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -203,27 +218,12 @@
    ]
   },
   {
-   "state": "Osun",
-   "state_code": "OS",
-   "zone": "SW",
-   "risk_score": 29,
-   "observation_deficit": 0.692,
-   "blind_spot_score": 20,
-   "day0_publishers_90d": 4,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "83% of matured events in SW never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
    "state": "Niger",
    "state_code": "NI",
    "zone": "NC",
-   "risk_score": 40,
+   "risk_score": 41,
    "observation_deficit": 0.486,
-   "blind_spot_score": 19,
+   "blind_spot_score": 20,
    "day0_publishers_90d": 10,
    "zone_unresolved_share": 0.784,
    "geo_unresolved_share": 0.667,
@@ -233,17 +233,32 @@
    ]
   },
   {
-   "state": "Yobe",
-   "state_code": "YO",
-   "zone": "NE",
-   "risk_score": 28,
-   "observation_deficit": 0.63,
+   "state": "Delta",
+   "state_code": "DE",
+   "zone": "SS",
+   "risk_score": 23,
+   "observation_deficit": 0.795,
    "blind_spot_score": 18,
    "day0_publishers_90d": 3,
-   "zone_unresolved_share": 0.789,
-   "geo_unresolved_share": 0.5,
+   "zone_unresolved_share": 0.933,
+   "geo_unresolved_share": 1.0,
    "reasons": [
-    "78% of matured events in NE never produced an evidence cascade",
+    "93% of matured events in SS never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
+   "state": "Katsina",
+   "state_code": "KT",
+   "zone": "NW",
+   "risk_score": 34,
+   "observation_deficit": 0.535,
+   "blind_spot_score": 18,
+   "day0_publishers_90d": 10,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 0.8,
+   "reasons": [
+    "83% of matured events in NW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -263,13 +278,13 @@
    ]
   },
   {
-   "state": "Delta",
-   "state_code": "DE",
+   "state": "Edo",
+   "state_code": "ED",
    "zone": "SS",
-   "risk_score": 22,
-   "observation_deficit": 0.795,
+   "risk_score": 23,
+   "observation_deficit": 0.737,
    "blind_spot_score": 17,
-   "day0_publishers_90d": 3,
+   "day0_publishers_90d": 4,
    "zone_unresolved_share": 0.933,
    "geo_unresolved_share": 1.0,
    "reasons": [
@@ -278,17 +293,17 @@
    ]
   },
   {
-   "state": "Edo",
-   "state_code": "ED",
-   "zone": "SS",
-   "risk_score": 22,
-   "observation_deficit": 0.737,
-   "blind_spot_score": 16,
+   "state": "Yobe",
+   "state_code": "YO",
+   "zone": "NE",
+   "risk_score": 29,
+   "observation_deficit": 0.572,
+   "blind_spot_score": 17,
    "day0_publishers_90d": 4,
-   "zone_unresolved_share": 0.933,
-   "geo_unresolved_share": 1.0,
+   "zone_unresolved_share": 0.789,
+   "geo_unresolved_share": 0.5,
    "reasons": [
-    "93% of matured events in SS never produced an evidence cascade",
+    "78% of matured events in NE never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -308,21 +323,6 @@
    ]
   },
   {
-   "state": "Katsina",
-   "state_code": "KT",
-   "zone": "NW",
-   "risk_score": 29,
-   "observation_deficit": 0.531,
-   "blind_spot_score": 15,
-   "day0_publishers_90d": 9,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 0.778,
-   "reasons": [
-    "83% of matured events in NW never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
    "state": "Kogi",
    "state_code": "KO",
    "zone": "NC",
@@ -338,6 +338,21 @@
    ]
   },
   {
+   "state": "Taraba",
+   "state_code": "TA",
+   "zone": "NE",
+   "risk_score": 22,
+   "observation_deficit": 0.672,
+   "blind_spot_score": 15,
+   "day0_publishers_90d": 4,
+   "zone_unresolved_share": 0.789,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "78% of matured events in NE never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Cross River",
    "state_code": "CR",
    "zone": "SS",
@@ -349,6 +364,21 @@
    "geo_unresolved_share": 0.75,
    "reasons": [
     "93% of matured events in SS never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
+   "state": "Gombe",
+   "state_code": "GO",
+   "zone": "NE",
+   "risk_score": 20,
+   "observation_deficit": 0.63,
+   "blind_spot_score": 13,
+   "day0_publishers_90d": 3,
+   "zone_unresolved_share": 0.789,
+   "geo_unresolved_share": 0.5,
+   "reasons": [
+    "78% of matured events in NE never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -384,21 +414,6 @@
    ]
   },
   {
-   "state": "Gombe",
-   "state_code": "GO",
-   "zone": "NE",
-   "risk_score": 19,
-   "observation_deficit": 0.63,
-   "blind_spot_score": 12,
-   "day0_publishers_90d": 3,
-   "zone_unresolved_share": 0.789,
-   "geo_unresolved_share": 0.5,
-   "reasons": [
-    "78% of matured events in NE never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
    "state": "Nasarawa",
    "state_code": "NA",
    "zone": "NC",
@@ -414,25 +429,10 @@
    ]
   },
   {
-   "state": "Taraba",
-   "state_code": "TA",
-   "zone": "NE",
-   "risk_score": 16,
-   "observation_deficit": 0.73,
-   "blind_spot_score": 12,
-   "day0_publishers_90d": 3,
-   "zone_unresolved_share": 0.789,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "78% of matured events in NE never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
    "state": "Kano",
    "state_code": "KN",
    "zone": "NW",
-   "risk_score": 13,
+   "risk_score": 14,
    "observation_deficit": 0.808,
    "blind_spot_score": 11,
    "day0_publishers_90d": 2,
@@ -460,6 +460,22 @@
    ]
   },
   {
+   "state": "Adamawa",
+   "state_code": "AD",
+   "zone": "NE",
+   "risk_score": 9,
+   "observation_deficit": 0.847,
+   "blind_spot_score": 8,
+   "day0_publishers_90d": 1,
+   "zone_unresolved_share": 0.789,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "78% of matured events in NE never produced an evidence cascade",
+    "only 1 independent publisher(s) filed day-0 reports here in 90 days",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Bayelsa",
    "state_code": "BY",
    "zone": "SS",
@@ -475,17 +491,17 @@
    ]
   },
   {
-   "state": "Adamawa",
-   "state_code": "AD",
-   "zone": "NE",
-   "risk_score": 8,
-   "observation_deficit": 0.847,
-   "blind_spot_score": 7,
+   "state": "FCT",
+   "state_code": "FC",
+   "zone": "NC",
+   "risk_score": 9,
+   "observation_deficit": 0.845,
+   "blind_spot_score": 8,
    "day0_publishers_90d": 1,
-   "zone_unresolved_share": 0.789,
+   "zone_unresolved_share": 0.784,
    "geo_unresolved_share": 1.0,
    "reasons": [
-    "78% of matured events in NE never produced an evidence cascade",
+    "78% of matured events in NC never produced an evidence cascade",
     "only 1 independent publisher(s) filed day-0 reports here in 90 days",
     "most incidents here cannot be placed below state level"
    ]
@@ -503,22 +519,6 @@
    "reasons": [
     "100% of matured events in SE never produced an evidence cascade",
     "only 2 independent publisher(s) filed day-0 reports here in 90 days",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "FCT",
-   "state_code": "FC",
-   "zone": "NC",
-   "risk_score": 8,
-   "observation_deficit": 0.845,
-   "blind_spot_score": 7,
-   "day0_publishers_90d": 1,
-   "zone_unresolved_share": 0.784,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "78% of matured events in NC never produced an evidence cascade",
-    "only 1 independent publisher(s) filed day-0 reports here in 90 days",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -556,9 +556,9 @@
    "state": "Jigawa",
    "state_code": "JI",
    "zone": "NW",
-   "risk_score": 5,
+   "risk_score": 6,
    "observation_deficit": 0.825,
-   "blind_spot_score": 4,
+   "blind_spot_score": 5,
    "day0_publishers_90d": 0,
    "zone_unresolved_share": 0.833,
    "geo_unresolved_share": null,
@@ -572,7 +572,7 @@
   "Plateau",
   "Sokoto",
   "Benue",
-  "Rivers",
-  "Borno"
+  "Borno",
+  "Kaduna"
  ]
 }
