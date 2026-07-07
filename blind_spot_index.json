@@ -86,7 +86,7 @@
    "state": "Rivers",
    "state_code": "RI",
    "zone": "SS",
-   "risk_score": 42,
+   "risk_score": 43,
    "observation_deficit": 0.612,
    "blind_spot_score": 26,
    "day0_publishers_90d": 5,
@@ -248,6 +248,22 @@
    ]
   },
   {
+   "state": "Akwa Ibom",
+   "state_code": "AK",
+   "zone": "SS",
+   "risk_score": 21,
+   "observation_deficit": 0.853,
+   "blind_spot_score": 18,
+   "day0_publishers_90d": 2,
+   "zone_unresolved_share": 0.933,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "93% of matured events in SS never produced an evidence cascade",
+    "only 2 independent publisher(s) filed day-0 reports here in 90 days",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Delta",
    "state_code": "DE",
    "zone": "SS",
@@ -356,7 +372,7 @@
    "state": "Cross River",
    "state_code": "CR",
    "zone": "SS",
-   "risk_score": 22,
+   "risk_score": 23,
    "observation_deficit": 0.628,
    "blind_spot_score": 14,
    "day0_publishers_90d": 5,
@@ -383,21 +399,6 @@
    ]
   },
   {
-   "state": "Imo",
-   "state_code": "IM",
-   "zone": "SE",
-   "risk_score": 19,
-   "observation_deficit": 0.708,
-   "blind_spot_score": 13,
-   "day0_publishers_90d": 5,
-   "zone_unresolved_share": 1.0,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "100% of matured events in SE never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
    "state": "Bauchi",
    "state_code": "BA",
    "zone": "NE",
@@ -410,6 +411,21 @@
    "reasons": [
     "78% of matured events in NE never produced an evidence cascade",
     "only 2 independent publisher(s) filed day-0 reports here in 90 days",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
+   "state": "Imo",
+   "state_code": "IM",
+   "zone": "SE",
+   "risk_score": 19,
+   "observation_deficit": 0.65,
+   "blind_spot_score": 12,
+   "day0_publishers_90d": 6,
+   "zone_unresolved_share": 1.0,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "100% of matured events in SE never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -448,9 +464,9 @@
    "state": "Abia",
    "state_code": "AB",
    "zone": "SE",
-   "risk_score": 12,
+   "risk_score": 13,
    "observation_deficit": 0.825,
-   "blind_spot_score": 10,
+   "blind_spot_score": 11,
    "day0_publishers_90d": 3,
    "zone_unresolved_share": 1.0,
    "geo_unresolved_share": 1.0,
@@ -523,33 +539,17 @@
    ]
   },
   {
-   "state": "Akwa Ibom",
-   "state_code": "AK",
-   "zone": "SS",
-   "risk_score": 8,
-   "observation_deficit": 0.753,
-   "blind_spot_score": 6,
-   "day0_publishers_90d": 2,
-   "zone_unresolved_share": 0.933,
-   "geo_unresolved_share": null,
-   "reasons": [
-    "93% of matured events in SS never produced an evidence cascade",
-    "only 2 independent publisher(s) filed day-0 reports here in 90 days"
-   ]
-  },
-  {
    "state": "Enugu",
    "state_code": "EN",
    "zone": "SE",
    "risk_score": 8,
-   "observation_deficit": 0.783,
+   "observation_deficit": 0.725,
    "blind_spot_score": 6,
-   "day0_publishers_90d": 2,
+   "day0_publishers_90d": 3,
    "zone_unresolved_share": 1.0,
    "geo_unresolved_share": null,
    "reasons": [
-    "100% of matured events in SE never produced an evidence cascade",
-    "only 2 independent publisher(s) filed day-0 reports here in 90 days"
+    "100% of matured events in SE never produced an evidence cascade"
    ]
   },
   {
