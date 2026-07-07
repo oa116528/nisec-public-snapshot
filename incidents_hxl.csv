@@ -63,6 +63,7 @@ inc_234f3fb8b97a24e0,2026-03-06,Lagos,,,,kidnapping_abduction,0,0,0,0,unverified
 inc_1bdc665b4536a173,2026-03-06,Rivers,,,,other,0,0,0,0,unverified,0.78,1
 inc_2f98567e4d07fd77,2026-03-19,Delta,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_59073be7d388171c,2026-03-20,Taraba,,,,other,3,3,0,0,unverified,0.78,1
+inc_04c074deb81fe3be,2026-03-26,Katsina,,,,homicide_murder,1,1,0,0,unverified,0.78,1
 inc_824a4aa581115145,2026-03-26,Rivers,,,,other,0,0,0,0,unverified,0.78,1
 inc_c47a645ad4b134d4,2026-03-26,Zamfara,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_d215f49108f47fb7,2026-04-03,Kwara,,,,banditry,0,0,0,0,unverified,0.78,1
@@ -269,10 +270,12 @@ inc_97244287ab536770,2026-07-06,Sokoto,Isa,13.2133,6.3643,banditry,0,0,0,0,unver
 inc_0f5d8f556e02d83e,2026-07-07,Borno,,,,terrorism_insurgency,0,0,0,0,unverified,0.58,1
 inc_660f34ab29c42385,2026-07-07,Ekiti,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_e15e5f3fe5715f8a,2026-07-07,Imo,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
-inc_e738c1a0ca57238c,2026-07-07,Kaduna,,,,mob_jungle_justice,0,0,0,0,unverified,0.78,1
+inc_ec3ba64f4e8ae945,2026-07-07,Kaduna,,,,mob_jungle_justice,0,0,0,0,unverified,0.78,1
+inc_e738c1a0ca57238c,2026-07-07,Kaduna,,,,mob_jungle_justice,0,0,0,0,unverified,0.86,2
+inc_2fd8fcab8136987f,2026-07-07,Katsina,,,,homicide_murder,0,0,0,0,unverified,0.58,1
 inc_978284cd6ea9623e,2026-07-07,Katsina,,,,other,0,0,0,0,unverified,0.58,1
+inc_b5c1d46a667d80ee,2026-07-07,Niger,Rafi,10.158,6.2514,communal_ethnic_clash,0,0,0,0,unverified,0.66,2
 inc_8f6e03f0dac26796,2026-07-07,Niger,,,,kidnapping_abduction,0,0,3,3,unverified,0.78,1
-inc_b5c1d46a667d80ee,2026-07-07,Niger,Rafi,10.158,6.2514,communal_ethnic_clash,0,0,0,0,unverified,0.58,1
 inc_90669d9b005e471e,2026-07-07,Ondo,,,,armed_robbery,0,0,0,0,unverified,0.78,1
 inc_819ad57e5db394a0,2026-07-07,Ondo,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_341c22c6be40e9b3,2026-07-07,Osun,,,,banditry,0,0,0,0,unverified,0.78,1

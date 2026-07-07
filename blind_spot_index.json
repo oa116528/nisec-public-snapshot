@@ -11,9 +11,9 @@
    "state": "Plateau",
    "state_code": "PL",
    "zone": "NC",
-   "risk_score": 60,
+   "risk_score": 61,
    "observation_deficit": 0.536,
-   "blind_spot_score": 32,
+   "blind_spot_score": 33,
    "day0_publishers_90d": 12,
    "zone_unresolved_share": 0.784,
    "geo_unresolved_share": 0.917,
@@ -53,32 +53,32 @@
    ]
   },
   {
+   "state": "Kaduna",
+   "state_code": "KD",
+   "zone": "NW",
+   "risk_score": 50,
+   "observation_deficit": 0.565,
+   "blind_spot_score": 28,
+   "day0_publishers_90d": 11,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 0.95,
+   "reasons": [
+    "83% of matured events in NW never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Borno",
    "state_code": "BO",
    "zone": "NE",
    "risk_score": 48,
    "observation_deficit": 0.546,
    "blind_spot_score": 26,
-   "day0_publishers_90d": 23,
+   "day0_publishers_90d": 24,
    "zone_unresolved_share": 0.789,
    "geo_unresolved_share": 0.955,
    "reasons": [
     "78% of matured events in NE never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Kaduna",
-   "state_code": "KD",
-   "zone": "NW",
-   "risk_score": 46,
-   "observation_deficit": 0.564,
-   "blind_spot_score": 26,
-   "day0_publishers_90d": 11,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 0.947,
-   "reasons": [
-    "83% of matured events in NW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -173,6 +173,21 @@
    ]
   },
   {
+   "state": "Katsina",
+   "state_code": "KT",
+   "zone": "NW",
+   "risk_score": 39,
+   "observation_deficit": 0.542,
+   "blind_spot_score": 21,
+   "day0_publishers_90d": 10,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 0.833,
+   "reasons": [
+    "83% of matured events in NW never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Kebbi",
    "state_code": "KE",
    "zone": "NW",
@@ -244,21 +259,6 @@
    "geo_unresolved_share": 1.0,
    "reasons": [
     "93% of matured events in SS never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Katsina",
-   "state_code": "KT",
-   "zone": "NW",
-   "risk_score": 34,
-   "observation_deficit": 0.535,
-   "blind_spot_score": 18,
-   "day0_publishers_90d": 10,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 0.8,
-   "reasons": [
-    "83% of matured events in NW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -414,6 +414,22 @@
    ]
   },
   {
+   "state": "Kano",
+   "state_code": "KN",
+   "zone": "NW",
+   "risk_score": 15,
+   "observation_deficit": 0.808,
+   "blind_spot_score": 12,
+   "day0_publishers_90d": 2,
+   "zone_unresolved_share": 0.833,
+   "geo_unresolved_share": 1.0,
+   "reasons": [
+    "83% of matured events in NW never produced an evidence cascade",
+    "only 2 independent publisher(s) filed day-0 reports here in 90 days",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Nasarawa",
    "state_code": "NA",
    "zone": "NC",
@@ -425,22 +441,6 @@
    "geo_unresolved_share": 1.0,
    "reasons": [
     "78% of matured events in NC never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Kano",
-   "state_code": "KN",
-   "zone": "NW",
-   "risk_score": 14,
-   "observation_deficit": 0.808,
-   "blind_spot_score": 11,
-   "day0_publishers_90d": 2,
-   "zone_unresolved_share": 0.833,
-   "geo_unresolved_share": 1.0,
-   "reasons": [
-    "83% of matured events in NW never produced an evidence cascade",
-    "only 2 independent publisher(s) filed day-0 reports here in 90 days",
     "most incidents here cannot be placed below state level"
    ]
   },
@@ -527,14 +527,14 @@
    "state_code": "AK",
    "zone": "SS",
    "risk_score": 8,
-   "observation_deficit": 0.812,
+   "observation_deficit": 0.753,
    "blind_spot_score": 6,
-   "day0_publishers_90d": 1,
+   "day0_publishers_90d": 2,
    "zone_unresolved_share": 0.933,
    "geo_unresolved_share": null,
    "reasons": [
     "93% of matured events in SS never produced an evidence cascade",
-    "only 1 independent publisher(s) filed day-0 reports here in 90 days"
+    "only 2 independent publisher(s) filed day-0 reports here in 90 days"
    ]
   },
   {
@@ -572,7 +572,7 @@
   "Plateau",
   "Sokoto",
   "Benue",
-  "Borno",
-  "Kaduna"
+  "Kaduna",
+  "Borno"
  ]
 }
