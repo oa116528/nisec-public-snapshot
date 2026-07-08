@@ -125,6 +125,17 @@
    "states_covered": 4
   },
   {
+   "source_id": "humangle",
+   "source_name": "HumAngle",
+   "tier_prior": 1,
+   "events_reported_day0": 5,
+   "resolved_events": 1,
+   "confirmed": 0,
+   "disputed": 1,
+   "learned_reliability": null,
+   "states_covered": 5
+  },
+  {
    "source_id": "christiandaily.com",
    "source_name": "christiandaily.com",
    "tier_prior": 3,
@@ -378,17 +389,6 @@
    "states_covered": 3
   },
   {
-   "source_id": "humangle",
-   "source_name": "HumAngle",
-   "tier_prior": 1,
-   "events_reported_day0": 3,
-   "resolved_events": 0,
-   "confirmed": 0,
-   "disputed": 0,
-   "learned_reliability": null,
-   "states_covered": 3
-  },
-  {
    "source_id": "tvc-news",
    "source_name": "TVC News",
    "tier_prior": 2,
@@ -567,6 +567,17 @@
   {
    "source_id": "arise-news",
    "source_name": "Arise News",
+   "tier_prior": 2,
+   "events_reported_day0": 1,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 1
+  },
+  {
+   "source_id": "aminiya",
+   "source_name": "Aminiya (Daily Trust Hausa)",
    "tier_prior": 2,
    "events_reported_day0": 1,
    "resolved_events": 0,
