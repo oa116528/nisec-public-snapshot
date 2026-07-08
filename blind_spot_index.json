@@ -26,7 +26,7 @@
    "state": "Kaduna",
    "state_code": "KD",
    "zone": "NW",
-   "risk_score": 48,
+   "risk_score": 49,
    "observation_deficit": 0.561,
    "blind_spot_score": 27,
    "day0_publishers_90d": 12,
@@ -41,9 +41,9 @@
    "state": "Sokoto",
    "state_code": "SO",
    "zone": "NW",
-   "risk_score": 53,
+   "risk_score": 54,
    "observation_deficit": 0.491,
-   "blind_spot_score": 26,
+   "blind_spot_score": 27,
    "day0_publishers_90d": 10,
    "zone_unresolved_share": 0.825,
    "geo_unresolved_share": 0.6,
@@ -116,9 +116,9 @@
    "state": "Katsina",
    "state_code": "KT",
    "zone": "NW",
-   "risk_score": 34,
+   "risk_score": 35,
    "observation_deficit": 0.538,
-   "blind_spot_score": 18,
+   "blind_spot_score": 19,
    "day0_publishers_90d": 11,
    "zone_unresolved_share": 0.825,
    "geo_unresolved_share": 0.833,
@@ -128,15 +128,30 @@
    ]
   },
   {
+   "state": "Zamfara",
+   "state_code": "ZA",
+   "zone": "NW",
+   "risk_score": 36,
+   "observation_deficit": 0.541,
+   "blind_spot_score": 19,
+   "day0_publishers_90d": 11,
+   "zone_unresolved_share": 0.825,
+   "geo_unresolved_share": 0.846,
+   "reasons": [
+    "82% of matured events in NW never produced an evidence cascade",
+    "most incidents here cannot be placed below state level"
+   ]
+  },
+  {
    "state": "Niger",
    "state_code": "NI",
    "zone": "NC",
-   "risk_score": 35,
-   "observation_deficit": 0.486,
+   "risk_score": 36,
+   "observation_deficit": 0.476,
    "blind_spot_score": 17,
    "day0_publishers_90d": 10,
    "zone_unresolved_share": 0.803,
-   "geo_unresolved_share": 0.625,
+   "geo_unresolved_share": 0.571,
    "reasons": [
     "80% of matured events in NC never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
@@ -215,21 +230,6 @@
    "geo_unresolved_share": 1.0,
    "reasons": [
     "80% of matured events in NC never produced an evidence cascade",
-    "most incidents here cannot be placed below state level"
-   ]
-  },
-  {
-   "state": "Zamfara",
-   "state_code": "ZA",
-   "zone": "NW",
-   "risk_score": 28,
-   "observation_deficit": 0.531,
-   "blind_spot_score": 15,
-   "day0_publishers_90d": 11,
-   "zone_unresolved_share": 0.825,
-   "geo_unresolved_share": 0.8,
-   "reasons": [
-    "82% of matured events in NW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"
    ]
   },
