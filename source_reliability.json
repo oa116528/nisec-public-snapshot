@@ -18,7 +18,7 @@
    "source_id": "daily-trust",
    "source_name": "Daily Trust",
    "tier_prior": 1,
-   "events_reported_day0": 68,
+   "events_reported_day0": 69,
    "resolved_events": 7,
    "confirmed": 6,
    "disputed": 1,
@@ -52,10 +52,10 @@
    "source_name": "Daily Post",
    "tier_prior": 2,
    "events_reported_day0": 81,
-   "resolved_events": 9,
+   "resolved_events": 10,
    "confirmed": 4,
-   "disputed": 5,
-   "learned_reliability": 0.455,
+   "disputed": 6,
+   "learned_reliability": 0.417,
    "states_covered": 29
   },
   {
