@@ -132,11 +132,11 @@
    "state_code": "OY",
    "zone": "SW",
    "risk_score": 41,
-   "observation_deficit": 0.563,
+   "observation_deficit": 0.551,
    "blind_spot_score": 23,
    "day0_publishers_90d": 17,
    "zone_unresolved_share": 0.875,
-   "geo_unresolved_share": 0.846,
+   "geo_unresolved_share": 0.786,
    "reasons": [
     "87% of matured events in SW never produced an evidence cascade",
     "most incidents here cannot be placed below state level"

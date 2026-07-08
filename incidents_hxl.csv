@@ -95,6 +95,7 @@ inc_4efeec08f94ec471,2026-06-20,Abia,,,,kidnapping_abduction,0,0,0,0,unverified,
 inc_a4563fd64acc371a,2026-06-20,Anambra,,,,homicide_murder,3,3,0,0,unverified,0.78,1
 inc_b135bb5d7b397a9e,2026-06-20,Kebbi,Bagudo,11.5,4.2,kidnapping_abduction,0,0,0,0,unverified,0.94,3
 inc_e5908bc3e2aa8dd2,2026-06-20,Kebbi,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
+inc_9ba8b9cf39e5939a,2026-06-21,Oyo,Ori Ire,8.2987,4.1094,kidnapping_abduction,0,0,7,7,disputed,0.86,2
 inc_13a175e0b1c59d9d,2026-06-23,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,4
 inc_d79a2aae5a2e04e3,2026-06-20,Sokoto,Isa,13.2133,6.3643,banditry,0,2,0,0,unverified,0.84,3
 inc_ec502f801dfd73c4,2026-06-20,Sokoto,,,,homicide_murder,0,0,0,0,unverified,0.78,1
@@ -104,7 +105,6 @@ inc_cdab4f418253590c,2026-06-21,Kaduna,,,,mob_jungle_justice,0,0,0,0,disputed,0.
 inc_b1d3d390560a9414,2026-06-21,Kebbi,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,4
 inc_8ccb5b9b58c9d266,2026-06-21,Ogun,,,,other,0,0,0,0,unverified,0.78,1
 inc_374f584f0bc5da7a,2026-06-21,Ogun,,,,homicide_murder,0,0,0,0,unverified,0.86,2
-inc_9ba8b9cf39e5939a,2026-06-21,Oyo,Ori Ire,8.2987,4.1094,kidnapping_abduction,0,0,7,7,unverified,0.78,1
 inc_813dac2585e665b9,2026-06-21,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,0.86,2
 inc_11b84f17bd8cd81d,2026-06-21,Oyo,Orelope,8.8213,3.7845,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_a7b874cf86e6ef88,2026-06-21,Plateau,,,,homicide_murder,0,0,0,0,unverified,0.78,1
@@ -281,3 +281,4 @@ inc_8e909df4f2110e35,2026-07-07,Yobe,,,,cult_gang_violence,0,0,0,0,unverified,0.
 inc_030401b67039691b,2026-07-07,Yobe,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_bb13d66233e6301c,2026-07-08,Bauchi,,,,armed_robbery,0,0,0,0,unverified,0.78,1
 inc_ab3335329d5f3688,2026-07-08,Enugu,,,,homicide_murder,0,0,0,0,unverified,0.78,1
+inc_02e055bcd9942bbb,2026-07-08,Oyo,Ori Ire,8.2987,4.1094,kidnapping_abduction,0,0,0,0,disputed,0.78,1
