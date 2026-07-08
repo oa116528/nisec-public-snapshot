@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-07-08T00:21:05Z",
+ "generated_at": "2026-07-08T00:30:18Z",
  "incidents": 288,
  "chain_head": {
-  "seq": 38,
-  "at": "2026-07-08T00:05:16Z",
-  "record_sha256": "a8d5b3ad64ce955714da932ec9d2aaffa05c7a857d2c57ee269c601716527026"
+  "seq": 39,
+  "at": "2026-07-08T00:21:05Z",
+  "record_sha256": "e785a1bb86dfbfb37c4384da223362eadd45c832194a1db38845d1c8c8b6fc0c"
  },
  "files": {
   "incidents_hxl.csv": "395656f71cdcc39e6c0972e6105984afb470cc517ccee8e1f1a294da7295f331",
@@ -13,7 +13,7 @@
   "source_reliability.json": "de48ed5e28747bb442b9a67f419ed77377b67d7ea27f940162ffec40b335fd65",
   "blind_spot_index.json": "80d2d733a6b9c111787646b35a216e13b658bbd65c3999052cc9ea2b6c57040c",
   "VERIFY.md": "101c61752485766fe64eefefc0b988edbed6c8dd9f300441a416e38f93343f6b",
-  "integrity_chain.jsonl": "209fa0fe31aa57f2adfbaa81dcd9078dbdd88e63c83476a5044d9df7ec4a132b"
+  "integrity_chain.jsonl": "af8f1b5842ac6ece74677c978266362fcc96d712d27cc365d38c9d8352d57bf2"
  },
  "license": "CC-BY 4.0 (data); verify before operational use"
 }
