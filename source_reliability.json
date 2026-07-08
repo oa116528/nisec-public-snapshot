@@ -18,45 +18,45 @@
    "source_id": "daily-trust",
    "source_name": "Daily Trust",
    "tier_prior": 1,
-   "events_reported_day0": 69,
+   "events_reported_day0": 73,
    "resolved_events": 7,
    "confirmed": 6,
    "disputed": 1,
    "learned_reliability": 0.778,
-   "states_covered": 23
+   "states_covered": 24
   },
   {
    "source_id": "vanguard",
    "source_name": "Vanguard",
    "tier_prior": 1,
-   "events_reported_day0": 47,
+   "events_reported_day0": 48,
    "resolved_events": 4,
    "confirmed": 3,
    "disputed": 1,
    "learned_reliability": 0.667,
-   "states_covered": 19
+   "states_covered": 20
   },
   {
    "source_id": "punch",
    "source_name": "Punch",
    "tier_prior": 1,
-   "events_reported_day0": 58,
+   "events_reported_day0": 59,
    "resolved_events": 8,
    "confirmed": 5,
    "disputed": 3,
    "learned_reliability": 0.6,
-   "states_covered": 24
+   "states_covered": 25
   },
   {
    "source_id": "daily-post",
    "source_name": "Daily Post",
    "tier_prior": 2,
-   "events_reported_day0": 81,
+   "events_reported_day0": 86,
    "resolved_events": 10,
    "confirmed": 4,
    "disputed": 6,
    "learned_reliability": 0.417,
-   "states_covered": 29
+   "states_covered": 31
   },
   {
    "source_id": "sahara-reporters",
@@ -95,12 +95,12 @@
    "source_id": "leadership",
    "source_name": "Leadership",
    "tier_prior": 2,
-   "events_reported_day0": 8,
+   "events_reported_day0": 10,
    "resolved_events": 1,
    "confirmed": 1,
    "disputed": 0,
    "learned_reliability": null,
-   "states_covered": 7
+   "states_covered": 9
   },
   {
    "source_id": "the-cable",
@@ -117,12 +117,12 @@
    "source_id": "channels-tv",
    "source_name": "Channels TV",
    "tier_prior": 1,
-   "events_reported_day0": 6,
+   "events_reported_day0": 7,
    "resolved_events": 1,
    "confirmed": 1,
    "disputed": 0,
    "learned_reliability": null,
-   "states_covered": 4
+   "states_covered": 5
   },
   {
    "source_id": "humangle",
@@ -315,12 +315,23 @@
    "source_id": "premium-times",
    "source_name": "Premium Times",
    "tier_prior": 1,
-   "events_reported_day0": 18,
+   "events_reported_day0": 19,
    "resolved_events": 0,
    "confirmed": 0,
    "disputed": 0,
    "learned_reliability": null,
    "states_covered": 15
+  },
+  {
+   "source_id": "tribune",
+   "source_name": "Nigerian Tribune",
+   "tier_prior": 2,
+   "events_reported_day0": 13,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 10
   },
   {
    "source_id": "sun",
@@ -334,10 +345,10 @@
    "states_covered": 7
   },
   {
-   "source_id": "tribune",
-   "source_name": "Nigerian Tribune",
+   "source_id": "blueprint",
+   "source_name": "Blueprint",
    "tier_prior": 2,
-   "events_reported_day0": 9,
+   "events_reported_day0": 7,
    "resolved_events": 0,
    "confirmed": 0,
    "disputed": 0,
@@ -356,15 +367,15 @@
    "states_covered": 6
   },
   {
-   "source_id": "blueprint",
-   "source_name": "Blueprint",
+   "source_id": "tvc-news",
+   "source_name": "TVC News",
    "tier_prior": 2,
-   "events_reported_day0": 6,
+   "events_reported_day0": 4,
    "resolved_events": 0,
    "confirmed": 0,
    "disputed": 0,
    "learned_reliability": null,
-   "states_covered": 6
+   "states_covered": 4
   },
   {
    "source_id": "naija247news.com",
@@ -381,17 +392,6 @@
    "source_id": "thisday",
    "source_name": "ThisDay",
    "tier_prior": 1,
-   "events_reported_day0": 3,
-   "resolved_events": 0,
-   "confirmed": 0,
-   "disputed": 0,
-   "learned_reliability": null,
-   "states_covered": 3
-  },
-  {
-   "source_id": "tvc-news",
-   "source_name": "TVC News",
-   "tier_prior": 2,
    "events_reported_day0": 3,
    "resolved_events": 0,
    "confirmed": 0,
@@ -447,6 +447,17 @@
    "source_id": "tell.ng",
    "source_name": "tell.ng",
    "tier_prior": 3,
+   "events_reported_day0": 2,
+   "resolved_events": 0,
+   "confirmed": 0,
+   "disputed": 0,
+   "learned_reliability": null,
+   "states_covered": 2
+  },
+  {
+   "source_id": "aminiya",
+   "source_name": "Aminiya (Daily Trust Hausa)",
+   "tier_prior": 2,
    "events_reported_day0": 2,
    "resolved_events": 0,
    "confirmed": 0,
@@ -567,17 +578,6 @@
   {
    "source_id": "arise-news",
    "source_name": "Arise News",
-   "tier_prior": 2,
-   "events_reported_day0": 1,
-   "resolved_events": 0,
-   "confirmed": 0,
-   "disputed": 0,
-   "learned_reliability": null,
-   "states_covered": 1
-  },
-  {
-   "source_id": "aminiya",
-   "source_name": "Aminiya (Daily Trust Hausa)",
    "tier_prior": 2,
    "events_reported_day0": 1,
    "resolved_events": 0,
