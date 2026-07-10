@@ -39,7 +39,6 @@ inc_ce7753867be36d99,2026-01-16,Kaduna,,,,banditry,0,0,2,2,unverified,0.58,1
 inc_e6ecf9e7b3223476,2026-01-22,Borno,,,,terrorism_insurgency,0,0,0,0,unverified,0.78,1
 inc_27f52284afc663ea,2026-01-23,Borno,,,,other,5,5,0,0,unverified,0.78,1
 inc_41ac10121766b492,2026-01-23,Kaduna,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
-inc_d9189da0ebe4e25d,2026-01-24,Kaduna,,,,other,0,0,0,0,unverified,0.78,1
 inc_3b596756344bd89a,2026-02-06,Kaduna,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_d2c6807ace0556f9,2026-02-06,Kaduna,,,,banditry,0,0,0,0,unverified,0.58,1
 inc_e280fd41f2c194ca,2026-02-06,Kwara,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
@@ -166,12 +165,10 @@ inc_0bf239b992c55da9,2026-06-30,Katsina,,,,banditry,0,0,0,0,unverified,0.86,2
 inc_62f20ae1ab7880be,2026-06-30,Katsina,,,,kidnapping_abduction,0,0,6,6,unverified,0.78,1
 inc_8d048429ccf7e9dd,2026-06-30,Osun,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_423df46f2861ec3c,2026-06-30,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
-inc_f450c7e8faa10308,2026-06-30,Plateau,,,,homicide_murder,3,3,0,0,unverified,0.78,1
 inc_b20c092fcc7bf63c,2026-06-30,Sokoto,,,,homicide_murder,0,0,0,0,unverified,0.58,1
 inc_86e1021fb5aef996,2026-07-01,Ondo,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_9cb28e3d13c22703,2026-07-01,Rivers,,,,other,2,2,0,0,unverified,0.78,1
-inc_0d54751df31587aa,2026-07-01,Sokoto,Bodinga,12.7987,5.2152,banditry,0,0,0,0,unverified,0.94,3
-inc_6b2c1568f56a7633,2026-07-01,Sokoto,Sabon birni,13.4916,6.2635,banditry,0,0,0,0,unverified,0.78,1
+inc_0d54751df31587aa,2026-07-01,Sokoto,Bodinga,12.7987,5.2152,banditry,0,0,0,0,unverified,0.78,1
 inc_02c5e5dd21ceebd0,2026-07-02,Akwa Ibom,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_3533e28ad600b8b8,2026-07-02,Benue,,,,banditry,0,0,0,0,unverified,0.78,1
 inc_220bfc27cbfae717,2026-07-02,Benue,,,,farmer_herder_clash,2,2,0,0,unverified,0.78,1
@@ -179,23 +176,16 @@ inc_9dec15a3b7d3ca78,2026-07-02,Edo,,,,kidnapping_abduction,0,0,0,0,unverified,0
 inc_3960ea4dd349b027,2026-07-02,Gombe,Akko,10.1081,11.0373,kidnapping_abduction,0,0,8,8,unverified,0.86,2
 inc_39242e66be0b8832,2026-07-02,Kano,,,,other,3,3,0,0,unverified,0.78,1
 inc_f706336b29bff4e5,2026-07-02,Katsina,Charanchi,12.6026,7.6792,banditry,0,0,0,0,unverified,0.78,1
-inc_fe18fb38cdc37494,2026-07-02,Kwara,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,4
 inc_5ce09f92934769c1,2026-07-02,Niger,,,,banditry,0,0,0,0,unverified,0.58,1
 inc_ed6b9b05629154d5,2026-07-02,Niger,Rafi,10.158,6.2514,communal_ethnic_clash,0,0,0,0,unverified,0.58,1
-inc_ff980e7691f6286f,2026-07-02,Niger,Rafi,10.158,6.2514,farmer_herder_clash,18,18,0,0,unverified,0.78,1
 inc_9104ae9628e4f5bb,2026-07-03,Benue,,,,homicide_murder,3,3,0,0,unverified,0.78,1
 inc_31ccfba65c99f839,2026-07-03,Benue,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_720bf203be7c6f5a,2026-07-03,Benue,Kwande,6.8073,9.4452,farmer_herder_clash,4,4,0,0,unverified,0.78,1
 inc_761e7cc4767d0b5c,2026-07-03,Katsina,,,,banditry,0,0,9,9,unverified,0.78,1
-inc_dad75fb2fe4ad6a4,2026-07-03,Rivers,Port-Harcourt,4.7857,7.017,homicide_murder,0,0,0,0,unverified,0.78,1
-inc_2b9d6ea2d3fa3937,2026-07-03,Yobe,Geidam,12.6794,12.1105,terrorism_insurgency,0,0,0,0,unverified,0.78,1
 inc_cc85433158327ead,2026-07-04,Benue,,,,cult_gang_violence,0,0,0,0,unverified,0.58,1
-inc_57b54b848b531510,2026-07-04,Cross River,,,,homicide_murder,0,0,0,0,unverified,0.78,1
 inc_3b4228593694290a,2026-07-04,Ekiti,,,,kidnapping_abduction,0,1,0,0,unverified,0.9,9
-inc_aed781a7b4b7a375,2026-07-04,Kogi,,,,banditry,0,0,0,0,unverified,0.78,1
-inc_cf0a37828792bf95,2026-07-04,Kogi,,,,homicide_murder,7,7,0,0,unverified,0.78,1
+inc_fe18fb38cdc37494,2026-07-04,Kwara,,,,kidnapping_abduction,0,0,0,0,unverified,0.94,3
 inc_46cfa5aae14aee4a,2026-07-04,Nasarawa,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
-inc_179ebbc1a3b0000a,2026-07-04,Plateau,,,,homicide_murder,3,3,0,0,unverified,0.86,2
 inc_a1bc0e2aea2b008e,2026-07-04,Plateau,,,,banditry,1,1,0,0,unverified,0.78,1
 inc_7e94e2e7aa10227a,2026-07-04,Rivers,,,,communal_ethnic_clash,0,0,0,0,unverified,0.78,1
 inc_4f98db2ae4cc59ed,2026-07-05,Benue,,,,other,2,2,0,0,unverified,0.58,1
@@ -203,19 +193,17 @@ inc_b9218e89d027d846,2026-07-05,Borno,,,,kidnapping_abduction,0,0,6,6,unverified
 inc_9aa90c752d218ac7,2026-07-05,Ekiti,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
 inc_bdcb63fdbb52e6b0,2026-07-05,Kaduna,,,,banditry,9,9,0,0,unverified,0.78,1
 inc_8d7c8ca5316b009d,2026-07-05,Kogi,,,,homicide_murder,7,7,0,0,unverified,0.78,1
-inc_8f6e03f0dac26796,2026-07-05,Niger,,,,kidnapping_abduction,0,0,3,3,unverified,0.78,1
 inc_fb2f3b806cd43988,2026-07-05,Ondo,,,,armed_robbery,0,5,0,0,unverified,0.76,2
 inc_cf9b24d714f253c5,2026-07-05,Oyo,,,,kidnapping_abduction,0,0,0,0,unverified,1.0,7
 inc_53a860269f1514fc,2026-07-05,Plateau,,,,homicide_murder,3,6,0,0,unverified,0.81,2
-inc_b892130238114741,2026-07-05,Sokoto,Wamako,13.075,5.1161,banditry,0,1,0,0,unverified,0.84,3
+inc_b892130238114741,2026-07-05,Sokoto,Wamako,13.075,5.1161,banditry,1,1,0,0,unverified,0.66,2
 inc_86aa98d45b66a29c,2026-07-05,Sokoto,,,,banditry,6,6,0,0,unverified,0.58,1
-inc_b4550df82d8ee78d,2026-07-05,Sokoto,,,,banditry,0,0,0,0,unverified,0.78,1
 inc_5d83d7ab33d9824d,2026-07-05,Sokoto,,,,banditry,6,6,0,0,unverified,0.78,1
-inc_597a5d7d2f203153,2026-07-06,Sokoto,,,,banditry,0,0,0,0,unverified,1.0,4
-inc_368d265282ea8fb8,2026-07-05,Taraba,,,,farmer_herder_clash,0,0,0,0,unverified,0.78,1
-inc_fa5e1877475d1096,2026-07-07,Kwara,,,,homicide_murder,15,32,0,0,unverified,0.81,2
-inc_d412e06446dcc85d,2026-07-06,Plateau,Barikin Ladi,9.5298,8.9082,homicide_murder,6,6,0,0,unverified,0.86,2
+inc_597a5d7d2f203153,2026-07-06,Sokoto,,,,banditry,0,0,0,0,unverified,0.86,2
+inc_fa5e1877475d1096,2026-07-06,Kwara,,,,homicide_murder,15,15,0,0,unverified,0.58,1
+inc_d412e06446dcc85d,2026-07-06,Plateau,Barikin Ladi,9.5298,8.9082,homicide_murder,6,6,0,0,unverified,0.78,1
 inc_1f79a2d69a525641,2026-07-06,Rivers,,,,other,2,2,0,0,unverified,0.78,1
+inc_b812e68eaf509725,2026-07-07,,,,,terrorism_insurgency,0,0,0,0,unverified,0.66,2
 inc_6118e011ff58f3fe,2026-07-07,Akwa Ibom,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_0f5d8f556e02d83e,2026-07-07,Borno,,,,terrorism_insurgency,0,0,0,0,unverified,0.58,1
 inc_e15e5f3fe5715f8a,2026-07-07,Imo,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
@@ -224,24 +212,22 @@ inc_e738c1a0ca57238c,2026-07-07,Kaduna,,,,mob_jungle_justice,0,0,0,0,unverified,
 inc_2fd8fcab8136987f,2026-07-08,Katsina,,,,homicide_murder,0,0,0,0,unverified,0.86,2
 inc_b5c1d46a667d80ee,2026-07-07,Niger,Rafi,10.158,6.2514,communal_ethnic_clash,0,0,0,0,unverified,0.66,2
 inc_90669d9b005e471e,2026-07-07,Ondo,,,,armed_robbery,0,0,0,0,unverified,0.78,1
-inc_819ad57e5db394a0,2026-07-07,Ondo,,,,kidnapping_abduction,0,0,0,0,unverified,0.66,2
-inc_9f7c65f24195a142,2026-07-07,Oyo,,,,banditry,0,0,37,37,unverified,0.86,2
-inc_72fa5e69cf786932,2026-07-07,Rivers,Emohua,4.86,6.92,communal_ethnic_clash,2,2,0,0,unverified,0.78,1
+inc_819ad57e5db394a0,2026-07-07,Ondo,,,,kidnapping_abduction,0,0,0,0,unverified,0.74,3
+inc_96517e75326a1efa,2026-07-07,Taraba,,,,other,0,0,0,0,unverified,0.58,1
 inc_3c85f39fed2fd71b,2026-07-07,Zamfara,,,,banditry,0,0,0,0,unverified,0.74,3
-inc_f29e53444c96a612,2026-07-08,Bauchi,,,,banditry,0,1,1,4,unverified,0.76,2
+inc_191a87431a26755e,2026-07-08,,,,,banditry,6,6,0,0,unverified,0.58,1
+inc_1e8dc5f07725b979,2026-07-08,,,,,other,0,0,0,0,unverified,0.58,1
 inc_89c3c7d3c614f0bd,2026-07-08,Enugu,,,,homicide_murder,0,0,0,0,unverified,0.86,2
 inc_623ea38ea797a93c,2026-07-08,Gombe,,,,kidnapping_abduction,0,0,4,8,unverified,0.78,1
 inc_a7588e64b0c22ec3,2026-07-08,Jigawa,,,,homicide_murder,7,7,0,0,unverified,0.86,2
-inc_adee369660f8ae08,2026-07-08,Kaduna,,,,banditry,0,0,0,0,unverified,0.78,1
 inc_f64eacca3c1b705c,2026-07-08,Katsina,,,,banditry,0,0,0,0,unverified,0.58,1
-inc_faf528dc37008841,2026-07-08,Nasarawa,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
 inc_02e055bcd9942bbb,2026-07-08,Oyo,Ori Ire,8.2987,4.1094,kidnapping_abduction,0,0,0,0,disputed,0.78,1
 inc_5643257891a8e53f,2026-07-08,Sokoto,,,,banditry,0,0,0,0,unverified,0.66,2
-inc_b812e68eaf509725,2026-07-08,Sokoto,,,,terrorism_insurgency,0,0,0,0,unverified,0.58,1
+inc_f7ce6314037bfeed,2026-07-09,,,,,other,0,0,0,0,unverified,0.58,1
 inc_3b25faae7f3300e1,2026-07-09,Benue,,,,kidnapping_abduction,0,0,0,0,unverified,0.78,1
-inc_263fb366721ea7eb,2026-07-09,Borno,Ngala,12.2928,14.1574,terrorism_insurgency,0,0,0,0,unverified,0.78,1
 inc_5ce796d84a51cf5a,2026-07-09,Edo,,,,kidnapping_abduction,0,0,0,0,unverified,0.58,1
+inc_9f7c65f24195a142,2026-07-09,Oyo,,,,banditry,0,0,0,0,unverified,0.58,1
 inc_2636fea4710b81bc,2026-07-09,Oyo,,,,kidnapping_abduction,0,0,46,46,unverified,0.86,2
 inc_47297f45d14d4c7d,2026-07-09,Plateau,Riyom,9.5757,8.691,banditry,2,2,0,0,unverified,0.78,1
 inc_731005ec840cbb8f,2026-07-09,Plateau,Mangu,9.397,9.1823,farmer_herder_clash,4,4,0,0,unverified,0.78,1
-inc_affbf7a3dc1cd084,2026-07-09,Sokoto,,,,homicide_murder,2,2,0,0,unverified,0.78,1
+inc_44e8dfc29ae40c6f,2026-07-10,Zamfara,,,,banditry,0,0,0,0,unverified,0.58,1
