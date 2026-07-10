@@ -1,14 +1,14 @@
 {
  "kind": "self_reported_measured_reliability",
- "labels_total": 247,
- "training_eligible": 36,
+ "labels_total": 269,
+ "training_eligible": 37,
  "by_outcome": {
   "matured_confirmed": 21,
-  "unresolved": 211,
-  "matured_disputed": 15
+  "unresolved": 232,
+  "matured_disputed": 16
  },
- "day0_auc_vs_matured_confirmed": 0.668,
- "day0_ece_vs_maturation": 0.2744,
+ "day0_auc_vs_matured_confirmed": 0.677,
+ "day0_ece_vs_maturation": 0.2873,
  "calibration_bins": [
   {
    "bin": "0.0-0.2",
@@ -30,9 +30,9 @@
   },
   {
    "bin": "0.6-0.8",
-   "n": 11,
-   "mean_confidence": 0.765,
-   "confirmed_rate": 0.182
+   "n": 12,
+   "mean_confidence": 0.764,
+   "confirmed_rate": 0.167
   },
   {
    "bin": "0.8-1.0",
@@ -41,32 +41,32 @@
    "confirmed_rate": 0.762
   }
  ],
- "labels_last_28d": 134,
- "labels_per_week_recent": 33.5,
+ "labels_last_28d": 156,
+ "labels_per_week_recent": 39.0,
  "coverage_by_zone": {
   "NC": {
-   "events": 67,
-   "unresolved_share": 0.821
+   "events": 76,
+   "unresolved_share": 0.842
   },
   "NE": {
    "events": 23,
    "unresolved_share": 0.826
   },
   "NW": {
-   "events": 70,
-   "unresolved_share": 0.829
+   "events": 77,
+   "unresolved_share": 0.831
   },
   "SE": {
-   "events": 18,
+   "events": 22,
    "unresolved_share": 1.0
   },
   "SS": {
-   "events": 22,
-   "unresolved_share": 0.955
+   "events": 23,
+   "unresolved_share": 0.957
   },
   "SW": {
-   "events": 47,
-   "unresolved_share": 0.851
+   "events": 48,
+   "unresolved_share": 0.854
   }
  },
  "label_source": "delayed_press_cascade_time_as_annotator",
